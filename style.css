@@ -1,3 +1,50 @@
-body{
-    background-image: url(/Images/img1.png);
+.bg{
+    background-image: url(Images/img1.png);
+    text-align: center;
 }
+/* .welcome{
+    text-align: left;
+
+} */
+
+.container{
+    margin-top: 62px;
+    margin-left:20px;
+}
+
+.btn{
+    margin-right: 10px;
+    margin-top: 10px;
+    background-color: rgb(220, 247, 222);
+    height: 90px;
+    width: 90px;
+    border-radius: 24px;
+    box-shadow: 5px 5px;
+}
+
+.outer{
+    background-color: rgb(238, 247, 238);
+    /* border: 10px; */
+    border-radius: 20px;
+    display: inline-block;
+    height: 495px;
+    width: 430px;
+    margin-top: 40px;
+}
+
+
+
+.montserrat {
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.reset_{
+    height: 30px;
+    width:60px;
+    border-radius: 5px;
+    font-size: medium;
+}
+
